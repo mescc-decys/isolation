@@ -35,4 +35,4 @@ There are a number of container escapes that rely on the availability of certain
 
 ------
 
-[^P31]: https://www.panoptica.app/research/7-ways-to-escape-a-container
+[^P31]: [https://www.panoptica.app/research/7-ways-to-escape-a-container](https://infosecwriteups.com/breaking-free-26-advanced-techniques-to-escape-docker-containers-530049816b55)
